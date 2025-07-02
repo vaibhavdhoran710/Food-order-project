@@ -22,7 +22,8 @@
   "bugs": {
     "url": "https://github.com/vaibhavdhoran710/Food-order/issues"
   },
-  "homepage": "https://github.com/vaibhavdhoran710/Food-order#readme",
+  "homepage": "https://vaibhavdhoran710.github.io/Food-order-project",
+
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
